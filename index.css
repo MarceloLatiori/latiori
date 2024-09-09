@@ -6,7 +6,7 @@ body{
     padding-left: 5%;
     padding-right: 5%;
     font-size: larger;
-    background-image: url('img/fotocapa.jpg')
+    background-image: url('img/fotocapa.jpg');
     background-repeat:repeat;
     position: absolute;
 
